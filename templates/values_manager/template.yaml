@@ -1,0 +1,15 @@
+name: page
+description: Create a flutter page.
+to: lib/resources/values_manager.dart
+args:
+  - name
+  - msg
+ 
+snippets:
+  - file: 'values_manager.dart'
+    prefix: page
+    excluded:
+      - 0
+      - 1
+
+    
