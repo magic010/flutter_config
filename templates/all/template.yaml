@@ -1,0 +1,15 @@
+name: resources
+description: Create a flutter page.
+to: lib/
+args:
+  - name
+  - msg
+ 
+snippets:
+  - folder: 'resources'
+    prefix: page
+    excluded:
+      - 0
+      - 1
+
+    
