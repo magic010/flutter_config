@@ -1,4 +1,4 @@
-name: page
+name: constant_manager
 description: Create a flutter page.
 to: lib/resources/constant_manager.dart
 args:

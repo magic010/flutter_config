@@ -1,4 +1,4 @@
-name: page
+name: color_manager
 description: Create a flutter page.
 to: lib/resources/color_manager.dart
 args:

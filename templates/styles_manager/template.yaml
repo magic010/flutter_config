@@ -1,4 +1,4 @@
-name: page
+name: styles_manager
 description: Create a flutter page.
 to: lib/resources/styles_manager.dart
 args:

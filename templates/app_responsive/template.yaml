@@ -1,4 +1,4 @@
-name: page
+name: app_responsive
 description: Create a flutter page.
 to: lib/resources/app_responsive.dart
 args:
